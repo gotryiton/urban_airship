@@ -1,0 +1,12 @@
+{
+  "name": "gotryiton/urban_airship",
+  "type": "library",
+  "description": "Urban Airship API Client",
+  "homepage": "http://github.com/gotryiton/urban_airship",
+  "license": "MIT",
+  "autoload" : {
+    "psr-0": {
+      "UA" : "lib/"
+    }
+  }
+}
